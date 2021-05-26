@@ -1,0 +1,7 @@
+main: com.github.doka.chattingchannel.ChattingChannelPlugin
+name: ChatChannel
+version: 1.0.0
+
+commands:
+  채팅채널:
+    description: chatchannel
